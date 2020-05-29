@@ -10,3 +10,7 @@ It consists of a "garden" database that comprises of:
 	- Category Table
 	- Customer Table
 
+
+# NOTE: The following project was created by team of two:
+	- Pratilipi Aich (https://github.com/PratilipiAich)
+	- Srishti Nema (https://github.com/srishti-nema)
