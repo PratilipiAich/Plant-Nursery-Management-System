@@ -1,4 +1,5 @@
 
+
 # Plant-Nursery-Management-System
 A basic Plant Nursery Management System using python TKinter and SQLite database to perform all CRUD operations
 
@@ -13,5 +14,7 @@ It consists of a "garden" database that comprises of:
  5. Customer Table
 
 ## NOTE: The following project was created by a team of two:
- [Pratilipi Aich](https://github.com/PratilipiAich)
- [Srishti Nema](https://github.com/srishti-nema)
+
+ - [Pratilipi Aich](https://github.com/PratilipiAich)
+ - [Srishti Nema](https://github.com/srishti-nema)
+
